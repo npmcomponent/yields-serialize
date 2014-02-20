@@ -3,9 +3,9 @@
  * dependencies
  */
 
-var submittable = require('submittable')
-  , reduce = require('reduce')
-  , value = require('value');
+var submittable = require('yields-submittable')
+  , reduce = require('redventures-reduce')
+  , value = require('component-value');
 
 /**
  * Serialize the given `form`.

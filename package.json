@@ -1,0 +1,16 @@
+{
+  "name": "yields-serialize",
+  "description": "serialize forms.",
+  "version": "0.2.0",
+  "keywords": [
+    "serialize",
+    "urlencoded"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "yields-submittable": "git://github.com/npmcomponent/yields-submittable.git",
+    "component-value": "git://github.com/npmcomponent/component-value.git",
+    "redventures-reduce": "git://github.com/npmcomponent/redventures-reduce.git"
+  },
+  "license": "MIT"
+}
